@@ -1,0 +1,8 @@
+<nav id="navbar">
+    <ul>
+       <li><a href="TechWeather.shtml"><h1>TechWeather</h1></a></li>
+       <li><a href="Forecasts.shtml">Forecasts</a></li>
+       <li><a href="Maps.shtml">Maps</a></li>
+       <li><a href="About.shtml">About</a></li>
+    </ul>
+</nav>
